@@ -21,7 +21,6 @@ SkyGreens um sistema de gestão para as fazendas pequenas urbanas que buscam ino
   <img align="center" alt="Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
   <img align="center" alt="Git" height="30" width="40" src="https://www.svgrepo.com/show/452210/git.svg">
   <img align="center" alt="Astah" height="30" width="40" src="https://www.svgrepo.com/show/196143/hierarchical-structure-diagram.svg">
-  <img align="center" alt="Jira" height="30" width="40" src="https://www.svgrepo.com/show/353935/jira.svg">
   <img align="center" alt="GitHub" height="30" width="40" src="https://www.svgrepo.com/show/475654/github-color.svg">
 </div>
 
